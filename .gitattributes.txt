@@ -1,0 +1,7 @@
+# Ensure text files have consistent line endings
+* text=auto
+
+# Forcing LF line endings for certain types of files
+*.cs text eol=lf
+*.shader text eol=lf
+*.txt text eol=lf
