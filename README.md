@@ -1,1 +1,1 @@
-# Binding-Of-Pawe-Ressurection
+# Binding-Of-Pawel-Ressurection
